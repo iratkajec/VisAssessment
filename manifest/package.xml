@@ -520,5 +520,13 @@
         <members>*</members>
         <name>Settings</name>
     </types>
+    <types>
+        <members>*</members>
+        <members>Account</members>
+        <members>Contact</members>
+        <members>Lead</members>
+    <name>CustomObject</name>
+    </types>
+    
     <version>44.0</version>
 </Package>

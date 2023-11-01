@@ -525,6 +525,7 @@
         <members>Account</members>
         <members>Contact</members>
         <members>Lead</members>
+        <members>User</members>
     <name>CustomObject</name>
     </types>
     
